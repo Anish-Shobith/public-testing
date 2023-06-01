@@ -5,6 +5,5 @@
         {"name":"token","regexPattern":".*token.*", "sensitive":true, "onKey": true},
         {"name":"secret","regexPattern":".*secret.*", "sensitive":true, "onKey": true},
         {"name":"database","regexPattern":".*database.*", "sensitive":true, "onKey": true},
-        {"name":"db","regexPattern":".*db.*", "sensitive":true, "onKey": true}
     ]
 }
